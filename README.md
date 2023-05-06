@@ -1,3 +1,7 @@
+Me chamo Viviane, tenho 21 anos e sou estudante de Sistemas de Informação pela Universidade Federal do Piauí.
+
+Esse repositório foi criado para realizar a apresentação de tecnologias que utilizo. Informando linguagens, ambientes de trabalho, pacotes e editores com os quais tenho familiaridade. 
+
 #
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avivyh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-b-a62a19218/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/avivyh) 
 
