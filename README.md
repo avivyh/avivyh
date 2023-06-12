@@ -1,4 +1,4 @@
-Olá! Sou a Viviane, tenho 21 anos e estudo Sistemas de Informação pela Universidade Federal do Piauí.
+Olá! Sou a Viviane, tenho 22 anos e estudo Sistemas de Informação pela Universidade Federal do Piauí.
 
 Esse repositório foi criado para realizar a apresentação de tecnologias que utilizo. Informando linguagens, ambientes de trabalho, pacotes e editores com os quais tenho familiaridade. 
 
