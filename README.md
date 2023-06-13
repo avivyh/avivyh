@@ -22,11 +22,7 @@ Esse repositório foi criado para realizar a apresentação de tecnologias que u
 #
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=avivyh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avivyh&theme=tokyonight&hide_border=true"><br>
 
-</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
